@@ -11,10 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/TIY-Durham/javascript-koans.git"
   },
-  "author": [
-    "David Laing <david@davidlaing.com>",
-    "David Rogers <david@theironyard.com>"
-  ],
+  "author": "jeffworley",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/TIY-Durham/javascript-koans/issues"
@@ -23,6 +20,9 @@
   "dependencies": {
     "chai": "^3.2.0",
     "lodash": "^3.10.1",
+    "mocha": "^2.3.0"
+  },
+  "devDependencies": {
     "mocha": "^2.3.0"
   }
 }
